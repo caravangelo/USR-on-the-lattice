@@ -2,9 +2,9 @@
 
 This repository contains animations of the simulation presented in arXiv:??????
 
-There are three animations, each corresponding to a case presented in the paper (case I, case II, case III)
+There are three animations, each corresponding to a case presented in the paper (case I, case II, case III).
 
-The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ as a function of e-fold time $N$. The right panel displays the 1-point probability density function (PDF) of inflaton field values across the simulation, overlapped with a plot of the potential (in green). The red line shows the lattice average of this distribution, while the dashed line represents the prediction from standard perturbation theory (SPT). These simulations correspond to potentials for which standsrd perturbation theory predicts $\mathcal{P}_{\rm tree,\zeta}^{\rm max}=1$.
+The left panel of the animation shows 2D snapshots of the inflaton field fluctuations $\delta\phi$ as a function of e-fold time $N$, normalized by the standard deviation $\sqrt{\langle\delta\phi\rangle^2}$. The right panel displays the 1-point probability density function (PDF) of inflaton field values across the simulation, overlapped with a plot of the potential (in green). The red line shows the lattice average of this distribution, while the dashed line represents the prediction from standard perturbation theory (SPT). These simulations correspond to potentials for which SPT predicts a value of the curvature power spectrum $\mathcal{P}_{\rm tree,\zeta}^{\rm max}=1$.
 
 For definitions and notations, please refer to the paper. 
 
