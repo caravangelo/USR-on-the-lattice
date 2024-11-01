@@ -1,6 +1,6 @@
 # Ultra-Slow-Roll on the lattice
 
-This repository contains animations of the simulation presented in arXiv:??????
+This repository contains animations of the simulations presented in [arXiv:2410.23942](http://arxiv.org/abs/2410.23942)
 
 There are three animations, each corresponding to a case presented in the paper (case I, case II, case III).
 
