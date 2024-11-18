@@ -10,13 +10,14 @@ For definitions and notations, please refer to the paper.
 
 ## Case I: Wands duality
 
-https://github.com/user-attachments/assets/47edebb3-2adc-4091-850c-2cb50a62c852
+https://github.com/user-attachments/assets/2e1b5502-ed40-4297-95a9-147174216e07
 
 ## Case II: repulsive self-interaction
 
-https://github.com/user-attachments/assets/021db66f-87ba-4a66-bdb1-197432563b25
+https://github.com/user-attachments/assets/a1c254aa-e693-4b80-8204-a0d226d31aff
 
 ## Case III: attractive self-interaction
 
-https://github.com/user-attachments/assets/49739209-136c-4041-a56c-155475a21f0f
+https://github.com/user-attachments/assets/07ece48c-b6b3-461e-b392-c9531f4ce9f0
+
 
